@@ -24,7 +24,7 @@
       <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 
-![Snake animation](https://github.com/DamarisJs/DamarisJs/blob/output/github-contribution-grid-snake.svg)
+
 
 
           
